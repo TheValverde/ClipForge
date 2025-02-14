@@ -1,0 +1,5 @@
+# Ignore ffmpeg.exe at the root
+/ffmpeg.exe
+
+# Ignore all files and subdirectories inside videos/
+videos/
